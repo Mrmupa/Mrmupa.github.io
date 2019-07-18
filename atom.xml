@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://mrmupa.com/"/>
-  <updated>2019-07-01T03:09:09.534Z</updated>
+  <updated>2019-07-18T03:02:16.708Z</updated>
   <id>http://mrmupa.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>java里的多线程</title>
+    <link href="http://mrmupa.com/2019/07/18/java%E9%87%8C%E7%9A%84%E5%A4%9A%E7%BA%BF%E7%A8%8B/"/>
+    <id>http://mrmupa.com/2019/07/18/java里的多线程/</id>
+    <published>2019-07-18T03:00:47.000Z</published>
+    <updated>2019-07-18T03:02:16.708Z</updated>
+    
+    <summary type="html">
+    
+      &lt;blockquote class=&quot;blockquote-center&quot;&gt;&lt;p&gt;完成高可用、高并发、高性能，多线程值得拥有 &lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+      <category term="program" scheme="http://mrmupa.com/categories/program/"/>
+    
+    
+      <category term="java" scheme="http://mrmupa.com/tags/java/"/>
+    
+      <category term="多线程" scheme="http://mrmupa.com/tags/%E5%A4%9A%E7%BA%BF%E7%A8%8B/"/>
+    
+  </entry>
   
   <entry>
     <title>当Maven大片报红找不到jar包</title>
